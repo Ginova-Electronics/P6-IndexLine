@@ -1,13 +1,10 @@
-# P6 / IndexLine
-
-------------------------------------------------------------------------------------------------------------------------------------------------
 ## English
 
 Here you will find the software for for the **P6 / IndexLine**
 
 Refer to **BA-6007-002** for instructions on how to update the software on your P6 / IndexLine machine.
 
-Download the software (machine and PC - software) from here:
+Download the software (machine and PC - software) from here (zip):
 
 [P6 Version 2.0.0](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/2.0.0/P6.2.0.0.zip)
 
@@ -28,7 +25,7 @@ Hier finden Sie die Software für die **P6 / IndexLine**.
 
 Für Anweisungen zur Aktualisierung der Software auf der Maschine, konsultieren Sie **BA-6007-002**.
 
-Laden Sie die Software (Maschinen- und PC-Software) hier herunter: 
+Laden Sie die Software (Maschinen- und PC-Software) hier herunter (ZIP): 
 
 [P6 Version 2.0.0](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/2.0.0/P6.2.0.0.zip)
 
@@ -49,7 +46,7 @@ Vous trouverez ici le logiciel pour le **P6 / IndexLine**.
 
 Pour les instructions sur la mise à jour du logiciel de votre machine P6 / IndexLine, veuillez consulter **BA-6007-002**.
 
-Téléchargez le logiciel (logiciel machine et PC) ici: 
+Téléchargez le logiciel (logiciel machine et PC) ici (ZIP): 
 
 [P6 Version 2.0.0](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/2.0.0/P6.2.0.0.zip)
 
