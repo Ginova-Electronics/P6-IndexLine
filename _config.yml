@@ -1,3 +1,4 @@
 title: "P6 / IndexLine"
 description: "Download P6 / IndexLine software updates"
 theme: jekyll-theme-slate
+stylesheet: "/assets/css/style.scss"
