@@ -24,6 +24,7 @@ Download the software (machine and PC - software as zip) and documentation from 
 
 | Version         | Software (with documentation)      | Documentation only |
 |-----------------|------------------------------------|--------------------|
+|P6 Version 2.2.1 | [P6 2.2.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.2.1/P6.2.2.1.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/v2.2.1/documentation/P6%202.2.x/english)|
 |P6 Version 2.1.3 | [P6 2.1.3.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.1.3/P6.2.1.3.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.1.x/english)|
 |P6 Version 2.0.1 | [P6 2.0.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.0.1/P6.2.0.1.zip)| [Documentation (german)](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.0.x/deutsch), or [Documentation (french)](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.0.x/francais)|
 
@@ -62,8 +63,9 @@ neueste und empfohlene Version):
 
 | Version         | Software (mit Dokumentation)      | Nur Dokumentation |
 |-----------------|-----------------------------------|-------------------|
-|P6 Version 2.1.3 | [P6 2.1.3.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.1.3/P6.2.1.3.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.1.x/deutsch)|
-|P6 Version 2.0.1 | [P6 2.0.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.0.1/P6.2.0.1.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.0.x/deutsch)|
+|P6 Version 2.2.1 | [P6 2.2.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.2.1/P6.2.2.1.zip)| [Dokumentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/v2.2.1/documentation/P6%202.2.x/deutsch)|
+|P6 Version 2.1.3 | [P6 2.1.3.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.1.3/P6.2.1.3.zip)| [Dokumentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.1.x/deutsch)|
+|P6 Version 2.0.1 | [P6 2.0.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.0.1/P6.2.0.1.zip)| [Dokumentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.0.x/deutsch)|
 
 
 <br>
@@ -101,6 +103,7 @@ la version la plus récente et recommandée):
 
 | Version         | Logiciel (avec documentation)      | Documentation seule |
 |-----------------|------------------------------------|---------------------|
+|P6 Version 2.2.1 | [P6 2.2.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.2.1/P6.2.2.1.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/v2.2.1/documentation/P6%202.2.x/francais)|
 |P6 Version 2.1.3 | [P6 2.1.3.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.1.3/P6.2.1.3.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.1.x/francais)|
 |P6 Version 2.0.1 | [P6 2.0.1.zip](https://github.com/Ginova-Electronics/P6-IndexLine/releases/download/v2.0.1/P6.2.0.1.zip)| [Documentation](https://github.com/Ginova-Electronics/P6-IndexLine/tree/main/documentation/P6%202.0.x/francais)|
 
